@@ -2,7 +2,6 @@ import React from 'react'
 import axios from 'axios';
 import { useQuery } from 'react-query';
 import { useParams } from 'react-router-dom';
-import ReactImageMagnify from 'react-image-magnify';
 import { CartContext } from '../context/Cart';
 import { useContext } from 'react';
 
